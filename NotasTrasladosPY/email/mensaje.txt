@@ -1,0 +1,17 @@
+﻿Buenos días,
+ 
+Mediante el proceso automático RPA se hace entrega a Contabilidad de las notas creadas
+por canales como se relaciona en el archivo adjunto, así mismo, se envían los soportes en
+PDF de las notas en mención.
+
+Cualquier duda o inquietud con la información reportada contacta al siguiente correo
+adjuntando la evidencia correspondiente alejandra.olarte@gruporeditos.com.
+
+NOTA: Por favor seguir el sigueinte procedimiento para la extraccion de la informacion,
+paso 1: Descargar el .zip,  paso 2: dar click derecho al archivo, paso 3: selecionar la opcion 7zip y  paso 4: selecionar extraer aqui(extract here).
+
+Por favor no responder ni enviar correos de respuesta a 
+la cuenta 
+automata.mercadeo@gruporeditos.com. 
+ 
+Cordialmente,

@@ -1,0 +1,18 @@
+{
+    "templates": {
+        "control_template": "Plantilla_ControlOp.xlsx",
+        "nota_template": "Plantilla_PDF_Nota.xlsx",
+        "epm_template": "Plantilla_PDF_EPM.xlsx",
+        "comfama_template": "Plantilla_PDF_Comfama.xlsx"
+    },
+    "email": {
+        "smtp_server": "smtp.office365.com",
+        "smtp_port": 587,
+        "smtp_username": "correo.automatizacion@gruporeditos.com",
+        "smtp_password": "Reditos2023*",
+        "email_settings": "email.json",
+        "email_message": "mensaje.txt"
+    },
+    "report_name": "reporte de notas.xls",
+    "db_name": "BD Productos Conciliaciones V1.xlsx"
+}
